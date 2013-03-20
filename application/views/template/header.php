@@ -6,8 +6,8 @@
 <!--<header id="header">-->
     <div class="row">
         <div class="span10">
-            <!-- <h1>{MIS}</h1>
-            <p class="lead">Moriah Information System</p> -->
+            <!-- <h1>{TGO}</h1>
+            <p class="lead">TGO HRIS</p> -->
         </div>
     </div>
 <?php if ($this->session->userdata('user_id')) : ?>

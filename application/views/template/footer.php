@@ -10,7 +10,7 @@
         <a href="https://twitter.com/mis">Facebook</a>
         <a href="https://twitter.com/mis">Google+</a>
     </div>
-    Made by <a target="_blank" href="http://www.facebook.com/francis.karl.21">Francis "Karl" Librando Amparo</a>. Contact him <a href="mailto:fhranz.alf@gmail.com">fhranz.alf@gmail.com</a>.
+    Made by <a target="_blank" href="">Lemonade Corporation</a>. Contact him <a href="mailto:">lemonade@gmail.com</a>.
     <br>
     Code licensed under the <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>.
     <br>

@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </a>
 
-            <a class="brand" href="<?php echo  base_url()?>">Moriah Information System</a>
+            <a class="brand" href="<?php echo  base_url()?>">TGO HRIS</a>
             <!--
             <div class="nav-collapse" id="main-menu">
                 <ul class="nav" id="main-menu-left">
@@ -20,7 +20,7 @@
             <?php if ($this->session->userdata('user_id')) : ?>
             <div class="pull-right">
                 <ul class="nav pull-right">
-                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-user icon-white"></i> Welcome, Francis<b class="caret"></b></a>
+                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-user icon-white"></i> Welcome, Lemonade<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="<?php echo site_url('user/edit_account'); ?>"><i class="icon-edit"></i> Edit Account</a></li>
                             <li><a href="<?php echo site_url('user/change_password'); ?>"><i class="icon-cog"></i> Change Password</a></li>
