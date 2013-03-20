@@ -25,40 +25,10 @@
       				</div>
       				<div class="prof_basicinfo_body">
       					<div>
-      					<div>
-      					<div class="age_info">
-      						<div class="age">Age</div>
-							<div class="age_figure">27</div>
-						</div>
-						<!-- <div class="gender_info">
-      						<div class="gender">Gender</div>
-							<div class="gender_text">Male</div>
-						</div>
-						<div class="birthday_info">
-      						<div class="birthday">Birthday</div>
-							<div class="birthday_date"><?php echo date('F'); ?></div>
-						</div>
-						<div class="birthplace_info">
-      						<div class="birthplace">Birthplace</div>
-							<div class="birthplace_text">27</div>
-						</div>
-						<div class="civilstatus_info">
-      						<div class="civilstatus">Civil Status</div>
-							<div class="civilstatus_text">Single</div>
-						</div>
-						<div class="siblings_info">
-      						<div class="siblings">Siblings</div>
-							<div class="siblings_figure">3</div>
-						</div>
-						<div class="orderofbirth_info">
-      						<div class="orderofbirth">Order of Birth</div>
-							<div class="orderofbirth_text">Eldest</div>
-						</div>
-						<div class="religion_info">
-      						<div class="religion">Religion</div>
-							<div class="religion_text">Roman Catholic</div>
-						</div> -->
-						</div>
+      						<div class="age_info">
+      							<div class="age">Age</div>
+								<div class="age_figure">27</div>
+							</div>
 						</div>
 					</div>
       				</div>
