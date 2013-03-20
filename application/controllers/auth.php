@@ -11,7 +11,7 @@ class Auth extends MY_Controller
 	
 	public function index()
 	{	
-		$this->_render('pages/login');
+		$this->_render('pages/home');
 	}
 
 	public function authenticate()
